@@ -19,7 +19,7 @@ def main():
     print(add(a,b))
     print(subtract(a,b))
     print(multiply(a,b))
-    print(devide(a,b))
+    print(divide(a,b))
 
 if __name__ == "__main__":
     main()
